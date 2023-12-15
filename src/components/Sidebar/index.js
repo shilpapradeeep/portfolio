@@ -6,6 +6,7 @@ import {
   faTwitter,
   faSkype,
 } from '@fortawesome/free-brands-svg-icons'
+import { NavLink } from 'react-router-dom'
 
 const Sidebar= () => {
     return(
@@ -17,7 +18,7 @@ const Sidebar= () => {
                     </div>
                     <img className="me" src="assets/images/me.jpg" alt="Me" />
                     <h2 className="email">shilpa.pradeeep@gmail.com</h2>
-                    <h2 className="address">Unit 96 1775 Valley Farm, CA</h2>
+                    <h2 className="address">Toronto, CA</h2>
                     <p className="copyright">&copy; 2023 Shilpa. All Rights Reserved</p>
                     <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
                         <li>
@@ -33,9 +34,9 @@ const Sidebar= () => {
                             <a target="_blank" href="#"><FontAwesomeIcon icon={faTwitter} color="#999999" className="anchor-icon" /></a>
                         </li>
                     </ul>
-                    <a href="#" className="theme-btn">
+                    <NavLink className="theme-btn scroll-to" activeclassname="active"  to='contact'  offset={-100} duration={500} href="#contact">
                         <i className="las la-envelope"></i> Hire Me!
-                    </a>
+                    </NavLink>
             </div>
         </div>
     )

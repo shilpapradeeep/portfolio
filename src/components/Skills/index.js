@@ -25,7 +25,7 @@ const Skills= () =>{
                                             <div className="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                                 <div className="skill">
                                                     <div className="skill-inner">
-                                                        <img src="assets/images/laravel.png" alt="Laravel/PHP" />
+                                                        <img src="assets/images/codeigniter.png" alt="CodeIgniter/PHP" />
                                                         <h1 className="percent">90%</h1>
                                                     </div>
                                                     <p className="name">CodeIgniter/PHP</p>
@@ -34,10 +34,28 @@ const Skills= () =>{
                                             <div className="col-md-3 scroll-animation" data-animation="fade_from_left">
                                                 <div className="skill">
                                                     <div className="skill-inner">
-                                                        <img src="assets/images/wordpress.png" alt="WordPress" />
+                                                        <img src="assets/images/yii.png" alt="Yii2" />
                                                         <h1 className="percent">86%</h1>
                                                     </div>
+                                                    <p className="name">Yii2</p>
+                                                </div>
+                                            </div>
+                                            <div className="col-md-3 scroll-animation" data-animation="fade_from_left">
+                                                <div className="skill">
+                                                    <div className="skill-inner">
+                                                        <img src="assets/images/wordpress.png" alt="WordPress" />
+                                                        <h1 className="percent">90%</h1>
+                                                    </div>
                                                     <p className="name">WordPress</p>
+                                                </div>
+                                            </div>
+                                            <div className="col-md-3 scroll-animation" data-animation="fade_from_right">
+                                                <div className="skill">
+                                                    <div className="skill-inner">
+                                                        <img src="assets/images/html.png" alt="Html" />
+                                                        <h1 className="percent">70%</h1>
+                                                    </div>
+                                                    <p className="name">HTML</p>
                                                 </div>
                                             </div>
                                             <div className="col-md-3 scroll-animation" data-animation="fade_from_right">
@@ -47,6 +65,24 @@ const Skills= () =>{
                                                         <h1 className="percent">60%</h1>
                                                     </div>
                                                     <p className="name">React</p>
+                                                </div>
+                                            </div>
+                                            <div className="col-md-3 scroll-animation" data-animation="fade_from_right">
+                                                <div className="skill">
+                                                    <div className="skill-inner">
+                                                        <img src="assets/images/vue.png" alt="Vue" />
+                                                        <h1 className="percent">60%</h1>
+                                                    </div>
+                                                    <p className="name">Vue</p>
+                                                </div>
+                                            </div>
+                                            <div className="col-md-3 scroll-animation" data-animation="fade_from_right">
+                                                <div className="skill">
+                                                    <div className="skill-inner">
+                                                        <img src="assets/images/mysql.png" alt="Html" />
+                                                        <h1 className="percent">90%</h1>
+                                                    </div>
+                                                    <p className="name">MySQL</p>
                                                 </div>
                                             </div>
                                             

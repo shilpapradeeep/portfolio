@@ -16,23 +16,20 @@ const Portfolio= () => {
                                             <div className="col-md-12 scroll-animation" data-animation="fade_from_bottom">
                                                 <div className="portfolio-item portfolio-full">
                                                     <div className="portfolio-item-inner">
-                                                        <a href="assets/images/portfolio1.jpg" data-lightbox="example-1">
-                                                            <img src="assets/images/portfolio1.jpg" alt="Portfolio" />
+                                                        <a href="assets/images/comtix.jpg" data-lightbox="example-1">
+                                                            <img src="assets/images/comtix.jpg" alt="Portfolio" />
                                                         </a>
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">Figma</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Framer</a>
-                                                            </li>
-                                                            <li>
                                                                 <a href="#">WordPress</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="#">Ecommerce</a>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">Bureau - Architecture Studio Website</a></h2>
+                                                    <h2><a href="#">Comtix</a></h2>
                                                 </div>
                                             </div>
                     
@@ -40,65 +37,65 @@ const Portfolio= () => {
                                                 <div className="portfolio-item portfolio-half">
                                                     <div className="portfolio-item-inner">
                                                         <a href="assets/images/portfolio2.jpg" data-lightbox="example-1">
-                                                            <img src="assets/images/portfolio2.jpg" alt="Portfolio" />
+                                                            <img src="assets/images/tsquare.jpg" alt="Portfolio" />
                                                         </a>
 
-                                                        <img src="assets/images/portfolio2.jpg" alt="Portfolio" />
+                                                        <img src="assets/images/tsquare.jpg" alt="Portfolio" />
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">WordPress</a>
+                                                                <a href="#">Larevel/PHP</a>
                                                             </li>
                                                             <li>
-                                                                <a href="#">Larevel/PHP</a>
+                                                                <a href="#">HTML</a>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">Moonex WordPress Theme</a></h2>
+                                                    <h2><a href="#">TSquare Solutions</a></h2>
                                                 </div>
                                             </div>
                     
                                             <div className="col-md-6 scroll-animation" data-animation="fade_from_right">
                                                 <div className="portfolio-item portfolio-half">
                                                     <div className="portfolio-item-inner">
-                                                        <a href="assets/images/portfolio3.jpg" data-lightbox="example-1">
-                                                            <img src="assets/images/portfolio3.jpg" alt="Portfolio" />
+                                                        <a href="assets/images/oncopatient.jpg" data-lightbox="example-1">
+                                                            <img src="assets/images/oncopatient.png" alt="Portfolio" />
                                                         </a>
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">Figma</a>
+                                                                <a href="#">CodeIgniter</a>
                                                             </li>
                                                             <li>
-                                                                <a href="#">Webflow</a>
+                                                                <a href="#">API</a>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">Taskly Dashboard</a></h2>
+                                                    <h2><a href="#">ONCOpatient Doctor Application</a></h2>
                                                 </div>
                                             </div>
                     
                                             <div className="col-md-12 scroll-animation" data-animation="fade_from_bottom">
                                                 <div className="portfolio-item portfolio-half">
                                                     <div className="portfolio-item-inner">
-                                                        <a href="assets/images/portfolio4.jpg" data-lightbox="example-1">
-                                                            <img src="assets/images/portfolio4.jpg" alt="portfolio" />
+                                                        <a href="assets/images/safetylens.jpg" data-lightbox="example-1">
+                                                            <img src="assets/images/safetylens.jpg" alt="portfolio" />
                                                         </a>
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">Figma</a>
+                                                                <a href="#">Laravel</a>
                                                             </li>
                                                             <li>
-                                                                <a href="#">React</a>
+                                                                <a href="#">Ecommerce</a>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">Hinterland - Real Estate Site Redesign</a></h2>
+                                                    <h2><a href="#">SafetyLensUSA</a></h2>
                                                 </div>
                                             </div>
                     
-                                            <div className="col-md-12 scroll-animation" data-animation="fade_from_bottom">
+                                            {/* <div className="col-md-12 scroll-animation" data-animation="fade_from_bottom">
                                                 <div className="portfolio-item portfolio-half">
                                                     <div className="portfolio-item-inner">
                                                         <a href="assets/images/portfolio5.jpg" data-lightbox="example-1">
@@ -113,7 +110,7 @@ const Portfolio= () => {
                                                     </div>
                                                     <h2><a href="#">Lewis Portfolio Framer Template</a></h2>
                                                 </div>
-                                            </div>
+                                            </div> */}
                                         </div>
                     
                                     </div>

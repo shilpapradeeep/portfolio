@@ -17,13 +17,12 @@ const Services= () => {
                                                 <i className="las la-bezier-curve"></i>
                                                 <h2>Website Developement</h2>
                                                 <p>I build website go live with Framework like Laravel/CodeIgniter or WordPress</p>
-                                                <p>I created digital products with unique ideas use Figma & Framer</p>
                                                 <span className="projects">50 Projects</span>
                                             </div>
                                             <div className="service-item scroll-animation" data-animation="fade_from_bottom">
                                                 <i className="las la-code"></i>
                                                 <h2>Software Development</h2>
-                                                <p>I build software go live with Framework like Laravel,CodeIgniter, Yii2 and React</p>
+                                                <p>I build software go live with Framework like Laravel,CodeIgniter, Yii2, Vue and React</p>
                                                 <span className="projects">50 Projects</span>
                                             </div>
                                             <div className="service-item scroll-animation" data-animation="fade_from_bottom">
