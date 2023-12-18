@@ -22,14 +22,14 @@ const Portfolio= () => {
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">WordPress</a>
+                                                                <button>WordPress</button>
                                                             </li>
                                                             <li>
-                                                                <a href="#">Ecommerce</a>
+                                                                <button>Ecommerce</button>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">Comtix</a></h2>
+                                                    <h2><a href="https://www.comtix.com/">Comtix</a></h2>
                                                 </div>
                                             </div>
                     
@@ -44,14 +44,14 @@ const Portfolio= () => {
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">Larevel/PHP</a>
+                                                                <button>Laravel/PHP</button>
                                                             </li>
                                                             <li>
-                                                                <a href="#">HTML</a>
+                                                                <button>HTML</button>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">TSquare Solutions</a></h2>
+                                                    <h2><button>TSquare Solutions</button></h2>
                                                 </div>
                                             </div>
                     
@@ -64,14 +64,14 @@ const Portfolio= () => {
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">CodeIgniter</a>
+                                                                <button>CodeIgniter</button>
                                                             </li>
                                                             <li>
-                                                                <a href="#">API</a>
+                                                                <button>API</button>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">ONCOpatient Doctor Application</a></h2>
+                                                    <h2><button>ONCOpatient Doctor Application</button></h2>
                                                 </div>
                                             </div>
                     
@@ -84,14 +84,14 @@ const Portfolio= () => {
                     
                                                         <ul className="portfolio-categories">
                                                             <li>
-                                                                <a href="#">Laravel</a>
+                                                                <button>Laravel</button>
                                                             </li>
                                                             <li>
-                                                                <a href="#">Ecommerce</a>
+                                                                <button>Ecommerce</button>
                                                             </li>
                                                         </ul>
                                                     </div>
-                                                    <h2><a href="#">SafetyLensUSA</a></h2>
+                                                    <h2><button>SafetyLensUSA</button></h2>
                                                 </div>
                                             </div>
                     
