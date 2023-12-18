@@ -3,8 +3,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
   faGithub,
-  faTwitter,
-  faSkype,
+//   faTwitter,
+//   faSkype,
 } from '@fortawesome/free-brands-svg-icons'
 import { NavLink } from 'react-router-dom'
 
