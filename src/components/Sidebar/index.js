@@ -27,12 +27,12 @@ const Sidebar= () => {
                         <li>
                             <a target="_blank" rel="noreferrer" href="https://github.com/shilpapradeeep"><FontAwesomeIcon icon={faGithub} color="#999999" className="anchor-icon" /></a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a target="_blank" rel="noreferrer" href="#"><FontAwesomeIcon icon={faSkype} color="#999999" className="anchor-icon" /></a>
                         </li>
                         <li>
                             <a target="_blank" rel="noreferrer" href="#"><FontAwesomeIcon icon={faTwitter} color="#999999" className="anchor-icon" /></a>
-                        </li>
+                        </li> */}
                     </ul>
                     <NavLink className="theme-btn scroll-to" activeclassname="active"  to='contact'  offset={-100} duration={500} href="#contact">
                         <i className="las la-envelope"></i> Hire Me!
