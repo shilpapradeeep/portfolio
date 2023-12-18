@@ -12,11 +12,21 @@ const About = () => {
                         <h1 className="scroll-animation" data-animation="fade_from_bottom">Every great design begin with<br />
                             an even <span>better story</span></h1>
                     </div>
-                    <p className="scroll-animation" data-animation="fade_from_bottom">Since beginning my journey as a freelance designer nearly 8 years ago, 
-                        I've done remote work for agencies, consulted for startups, and collaborated with 
-                        talented people to create digital products for both business and consumer use. 
-                        I'm quietly confident, naturally curious, and perpetually working on improving my 
-                        chopsone design problem at a time.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">Hello! I'm Shilpa Pradeep, a seasoned Full Stack Developer based in Toronto, Ontario. With a passion for crafting innovative digital solutions, I bring over 6 years of experience in the dynamic realm of software development.</p>
+                    <h2 className="scroll-animation">Technical Proficiency</h2>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">My expertise spans a wide array of technologies, including but not limited to:</p>
+                    <ul>
+                        <li><b>Web Development:</b> Proficient in end-to-end web application development, utilizing technologies such as PHP, Laravel, CodeIgniter, Yii, JavaScript, Vue.js, React and more.</li>
+                        <li><b>CMS Mastery:</b> Adept at working with various Content Management Systems (CMS) including WordPress, WooCommerce, Shopify, and Joomla.</li>
+                        <li><b>Database Wizardry:</b> Skilled in designing and optimizing databases, with a focus on MySQL, resulting in enhanced application performance.</li>
+                        <li><b>Agile Advocate:</b> Well-versed in Agile development methodologies, I actively contribute to project management, ensuring timely delivery and high-quality products.</li>
+                    </ul>
+                    <h2 className="scroll-animation">Professional Journey</h2>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">In my current role as a Senior Full-stack Developer at QBurst, I have successfully designed and deployed 20+ software systems, implementing Test-Driven Development (TDD) practices to enhance application quality. My responsibilities extend to mentoring junior developers, collaborating with cross-functional teams, and actively contributing to Agile/Scrum methodologies.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">During my tenure at Three Seas Infologics, I thrived in a fast-paced startup environment, managing multiple projects simultaneously and contributing to the successful launch of 15+ websites and applications.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">I am committed to staying at the forefront of technological advancements, evidenced by my proficiency in modern JavaScript frameworks like React.js and Vue.js, cloud computing platforms such as AWS, and version control systems like Git.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">I hold a Bachelor's degree in Computer Science Engineering, providing a solid foundation for my analytical and problem-solving skills.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">I am always excited about new opportunities and collaborations. Feel free to connect with me on <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shilpa-pradeep/">LinkedIn</a> to explore potential partnerships or simply have a conversation about the exciting world of technology.</p>
                 </div>
             </div>
         </section>
