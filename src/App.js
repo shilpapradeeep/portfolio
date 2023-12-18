@@ -1,7 +1,4 @@
-import logo from './logo.svg';
 import { Route, Routes } from 'react-router-dom'
-import Navbar from './components/Navbar';
-import Sidebar from './components/Sidebar';
 import Home from './components/Home/index.js';
 import About from './components/About';
 import Resume from './components/Resume';
