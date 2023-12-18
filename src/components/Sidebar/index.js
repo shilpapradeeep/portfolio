@@ -22,16 +22,16 @@ const Sidebar= () => {
                     <p className="copyright">&copy; 2023 Shilpa. All Rights Reserved</p>
                     <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
                         <li>
-                            <a target="_blank" href="https://www.linkedin.com/in/shilpa-pradeep/"><FontAwesomeIcon icon={faLinkedin} color="#999999" className="anchor-icon" /></a>
+                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shilpa-pradeep/"><FontAwesomeIcon icon={faLinkedin} color="#999999" className="anchor-icon" /></a>
                         </li>
                         <li>
-                            <a target="_blank" href="https://github.com/shilpapradeeep"><FontAwesomeIcon icon={faGithub} color="#999999" className="anchor-icon" /></a>
+                            <a target="_blank" rel="noreferrer" href="https://github.com/shilpapradeeep"><FontAwesomeIcon icon={faGithub} color="#999999" className="anchor-icon" /></a>
                         </li>
                         <li>
-                            <a target="_blank" href="#"><FontAwesomeIcon icon={faSkype} color="#999999" className="anchor-icon" /></a>
+                            <a target="_blank" rel="noreferrer" href="#"><FontAwesomeIcon icon={faSkype} color="#999999" className="anchor-icon" /></a>
                         </li>
                         <li>
-                            <a target="_blank" href="#"><FontAwesomeIcon icon={faTwitter} color="#999999" className="anchor-icon" /></a>
+                            <a target="_blank" rel="noreferrer" href="#"><FontAwesomeIcon icon={faTwitter} color="#999999" className="anchor-icon" /></a>
                         </li>
                     </ul>
                     <NavLink className="theme-btn scroll-to" activeclassname="active"  to='contact'  offset={-100} duration={500} href="#contact">
