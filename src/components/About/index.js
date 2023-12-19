@@ -11,7 +11,7 @@ const About = () => {
                         </h4>
                         <h1 className="scroll-animation" data-animation="fade_from_bottom">Passionate Software Developer | Crafting Code, <span>Building Dreams..</span></h1>
                     </div>
-                    <p className="scroll-animation" data-animation="fade_from_bottom">Hello! I'm Shilpa Pradeep, a seasoned Full Stack Developer based in Toronto, Ontario. With a passion for crafting innovative digital solutions, I bring over 6 years of experience in the dynamic realm of software development.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">Hello! I'm Shilpa Pradeep, a seasoned Full Stack Developer based in Toronto, Canada. With a passion for crafting innovative digital solutions, I bring over 6 years of experience in the dynamic realm of software development.</p>
                     <h2 className="scroll-animation">Technical Proficiency</h2>
                     <p className="scroll-animation" data-animation="fade_from_bottom">My expertise spans a wide array of technologies, including but not limited to:</p>
                     <ul>
