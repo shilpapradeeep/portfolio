@@ -36,7 +36,7 @@ const Portfolio= () => {
                                             <div className="col-md-6 scroll-animation" data-animation="fade_from_left">
                                                 <div className="portfolio-item portfolio-half">
                                                     <div className="portfolio-item-inner">
-                                                        <a href="assets/images/portfolio2.jpg" data-lightbox="example-1">
+                                                        <a href="assets/images/tsquare.jpg" data-lightbox="example-1">
                                                             <img src="assets/images/tsquare.jpg" alt="Portfolio" />
                                                         </a>
 
@@ -58,7 +58,7 @@ const Portfolio= () => {
                                             <div className="col-md-6 scroll-animation" data-animation="fade_from_right">
                                                 <div className="portfolio-item portfolio-half">
                                                     <div className="portfolio-item-inner">
-                                                        <a href="assets/images/oncopatient.jpg" data-lightbox="example-1">
+                                                        <a href="assets/images/oncopatient.png" data-lightbox="example-1">
                                                             <img src="assets/images/oncopatient.png" alt="Portfolio" />
                                                         </a>
                     

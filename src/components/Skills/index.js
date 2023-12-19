@@ -9,7 +9,7 @@ const Skills= () =>{
                                             <h4 className="subtitle scroll-animation" data-animation="fade_from_bottom">
                                                 <i className="las la-shapes"></i> my skills
                                             </h4>
-                                            <h1 className="scroll-animation" data-animation="fade_from_bottom">My <span>Advantages</span></h1>
+                                            <h1 className="scroll-animation" data-animation="fade_from_bottom">Areas of <span>Expertise</span></h1>
                                         </div>
                     
                                         <div className="row skills text-center">
@@ -35,7 +35,7 @@ const Skills= () =>{
                                                 <div className="skill">
                                                     <div className="skill-inner">
                                                         <img src="assets/images/yii.png" alt="Yii2" />
-                                                        <h1 className="percent">86%</h1>
+                                                        <h1 className="percent">85%</h1>
                                                     </div>
                                                     <p className="name">Yii2</p>
                                                 </div>
@@ -53,7 +53,7 @@ const Skills= () =>{
                                                 <div className="skill">
                                                     <div className="skill-inner">
                                                         <img src="assets/images/html.png" alt="Html" />
-                                                        <h1 className="percent">70%</h1>
+                                                        <h1 className="percent">90%</h1>
                                                     </div>
                                                     <p className="name">HTML</p>
                                                 </div>
@@ -71,7 +71,7 @@ const Skills= () =>{
                                                 <div className="skill">
                                                     <div className="skill-inner">
                                                         <img src="assets/images/vue.png" alt="Vue" />
-                                                        <h1 className="percent">60%</h1>
+                                                        <h1 className="percent">90%</h1>
                                                     </div>
                                                     <p className="name">Vue</p>
                                                 </div>

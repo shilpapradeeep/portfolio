@@ -16,20 +16,20 @@ const Services= () => {
                                             <div className="service-item scroll-animation" data-animation="fade_from_bottom">
                                                 <i className="las la-bezier-curve"></i>
                                                 <h2>Website Developement</h2>
-                                                <p>I build website go live with Framework like Laravel/CodeIgniter or WordPress</p>
-                                                <span className="projects">50 Projects</span>
+                                                <p>I support businesses across diverse sectors with innovative website development solutions</p>
+                                                <span className="projects">50+ Projects</span>
                                             </div>
                                             <div className="service-item scroll-animation" data-animation="fade_from_bottom">
                                                 <i className="las la-code"></i>
                                                 <h2>Software Development</h2>
-                                                <p>I build software go live with Framework like Laravel,CodeIgniter, Yii2, Vue and React</p>
-                                                <span className="projects">50 Projects</span>
+                                                <p>I help in transforming Ideas into Powerful Solutions through Expert Software Development</p>
+                                                <span className="projects">20+ Projects</span>
                                             </div>
                                             <div className="service-item scroll-animation" data-animation="fade_from_bottom">
                                                 <i className="las la-bezier-curve"></i>
                                                 <h2>SEO/Marketing</h2>
-                                                <p>Increase the traffic for your website with SEO optimized</p>
-                                                <span className="projects">8 Projects</span>
+                                                <p>I support in elevating Brands through Strategic SEO and Marketing.</p>
+                                                <span className="projects">8+ Projects</span>
                                             </div>
                                         </div>
                     

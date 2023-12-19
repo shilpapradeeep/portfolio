@@ -12,7 +12,7 @@ const Home = () => {
                         </h4>
                         <h1 className="scroll-animation" data-animation="fade_from_bottom">Hi I'm <span>Shilpa</span>,<br /> Full Stack Developer</h1>
                     </div>
-                    <p className="scroll-animation" data-animation="fade_from_bottom">I'm a passionate software developer who loves building products that people love. I care about making the customer happy, testing, accessibility, teamwork, and code quality.</p>
+                    <p className="scroll-animation" data-animation="fade_from_bottom">I am an enthusiastic software developer with a passion for crafting products that resonate with users. My focus extends to ensuring customer satisfaction, rigorous testing, accessibility, collaborative teamwork, and maintaining high standards of code quality.</p>
                    
                     <div className="facts d-flex">
                         <div className="left scroll-animation" data-animation="fade_from_left">

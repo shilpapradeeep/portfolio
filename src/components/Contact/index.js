@@ -26,11 +26,12 @@ const Contact= () => {
                                     <div className="contact-content content-width">
                                         <div className="section-header">
                                             <h4 className="subtitle scroll-animation" data-animation="fade_from_bottom">
-                                                <i className="las la-dollar-sign"></i> contact
+                                                <i className="las"></i> contact
                                             </h4>
                                             <h1 className="scroll-animation" data-animation="fade_from_bottom">Contact <span>Me!</span></h1>
+                                            <p className="scroll-animation" data-animation="fade_from_bottom">I am always excited about new opportunities and collaborations. Feel free to connect with me using below form or <a class="linkedIn" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shilpa-pradeep/">LinkedIn</a> to explore potential partnerships or simply have a conversation about the exciting world of technology.</p>
+
                                         </div>
-                                        <h3 className="scroll-animation" data-animation="fade_from_bottom">shilpa.pradeeep@gmail.com</h3>
                                         <p id="required-msg">* Marked fields are required to fill.</p>
                                         <form className="contact-form scroll-animation" data-animation="fade_from_bottom" ref={form} onSubmit={sendEmail}>
                                             <div className="alert alert-success messenger-box-contact__msg" style={{display: 'none'}} role="alert">
