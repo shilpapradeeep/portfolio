@@ -19,7 +19,7 @@ const Sidebar= () => {
                     <img className="me" src="assets/images/me.jpg" alt="Me" />
                     <h2 className="email">shilpa.pradeeep@gmail.com</h2>
                     <h2 className="address">Toronto, CA</h2>
-                    <p className="copyright">&copy; 2023 Shilpa. All Rights Reserved</p>
+                    <p className="copyright">&copy; {(new Date().getFullYear())} Shilpa. All Rights Reserved</p>
                     <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
                         <li>
                             <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shilpa-pradeep/"><FontAwesomeIcon icon={faLinkedin} color="#999999" className="anchor-icon" /></a>
