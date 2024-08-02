@@ -14,7 +14,7 @@ const Sidebar= () => {
             <div className="left-sidebar">
                     <div className="sidebar-header d-flex align-items-center justify-content-between">
                         <h2>Shilpa Pradeep</h2>
-                        <span className="designation">Software Developer</span>
+                        <span className="designation">Software Engineer</span>
                     </div>
                     <img className="me" src="assets/images/me.jpg" alt="Me" />
                     <h2 className="email">shilpa.pradeeep@gmail.com</h2>
